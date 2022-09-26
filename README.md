@@ -12,6 +12,12 @@
 
 > Chegar o mais próximo possível do design e responsividade da página original do Instagram, considerando seu design na data de realização do projeto (02/05/2022).
 
+
+
+<img src = "instagram.png">
+
+
+
 ### Link do projeto concluído:
 
 :link: https://isaias30silva.github.io/pagina-instagram/
